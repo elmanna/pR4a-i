@@ -7,7 +7,7 @@ python resoultion for android/ios
 #it must be renewed to the modren way of rendering i think pygame_sdl2 causing it
 #the module is still under developing 
 #anyway ihave been developing the module just to learn new things⚠️ any one want to contribute 
-#he's very welcomed to!!
+#he's/she's very welcomed to!!
 
 
 
